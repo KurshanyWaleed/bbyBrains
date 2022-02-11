@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:dotbottomnavbar/home_screen.dart';
+import 'package:babybrains/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
